@@ -91,7 +91,7 @@ def killzone(campid, headers, zones):
 def main():
 
     headers = {'accept': 'application/json', 'Content-Type': 'application/json',
-               'Authorization': 'Bearer d95239d766f789d72d51306ddacf4e242ecdf075b9759e1b'}
+               'Authorization': 'Bearer ****APITOKEN****'}
 
     conf = load_conf()
 
